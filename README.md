@@ -1,5 +1,8 @@
 # Setup
 ```shell
+  git clone git@github.com:Eth3rnit3/kali.git
+  cd ./kali
+
   ./kali install
 ```
 
